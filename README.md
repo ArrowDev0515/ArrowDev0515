@@ -1,5 +1,3 @@
-# dennisglushko-dennisglushko
-
 <div align="center">
   <h1>Time 2 up!</h1>
 </div> 👋
