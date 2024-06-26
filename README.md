@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Time 2 up!</h1>
+  <h1>U Raise Me Up!</h1>
 </div> 👋
 
 ### <div align="center">A generalist software dev who prefer working in a fast-paced environment and can learn fast 🚀</div>  
